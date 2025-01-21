@@ -2,7 +2,13 @@
 This is for homework
 
 #Section
+
 ##Subsection
+
 ###Subsubsection
 
 1. This is an ordered list.
+
+2. **Bold** *italic*
+
+
